@@ -1,0 +1,3 @@
+git+https://github.com/ExoPlant/pyckwiz
+PyQt6
+cx_freeze
